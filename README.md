@@ -75,4 +75,5 @@ Below is an example of using the program:
  Press Ctrl+C to exit at any time
 
  > x
- Exiting the translator. Goodbye!```
+ Exiting the translator. Goodbye!
+```
