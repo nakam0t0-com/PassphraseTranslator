@@ -1,3 +1,7 @@
+# PassphraseTranslator
+
+This software translate passphrases between languages according to BIP39
+
 ## Usage Instructions
 
 - When you start the program, it will show you available dictionaries and prompt you to select source and target languages
