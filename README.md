@@ -15,51 +15,60 @@
 
 Below is an example of using the program:
 
-```> Python PasTra.py
+```
+ > python PasTra.py
 
-BIP39 Passphrase Translator
-Loaded dictionary: english Loaded dictionary: spanish
+ BIP39 Passphrase Translator
+ Loaded dictionary: english Loaded dictionary: spanish
 
-BIP39 Passphrase Translator - Instructions
-Type a word to translate it from source to target language
-Press Enter (empty input) to change dictionaries
-Type 'h' to show these instructions
-Type 'x' to exit the program
-Press Ctrl+C to exit at any time
-Available languages:
+ BIP39 Passphrase Translator - Instructions
+ Type a word to translate it from source to target language
+ Press Enter (empty input) to change dictionaries
+ Type 'h' to show these instructions
+ Type 'x' to exit the program
+ Press Ctrl+C to exit at any time
+ Available languages:
 
-english
-spanish
-Enter source language number: 2
+ 1.english
+ 2.spanish
 
-Enter target language number: 1
+ Enter source language number: 2
+ Enter target language number: 1
 
-Translating from spanish to english
+ Translating from spanish to english
 
-ábaco ábaco → abandon | #1 | 00000000000
+ > ábaco
+ ábaco → abandon | #1 | 00000000000
 
-abandonar abandonar → ability | #2 | 00000000001
+ > abandonar
+ abandonar → ability | #2 | 00000000001
 
-abarca abarca → able | #3 | 00000000010
+ > abarca
+ abarca → able | #3 | 00000000010
 
-Available languages:
+ >
 
-english
-spanish
-Enter source language number: 1
+ Available languages:
 
-Enter target language number: 2
+ 1.english
+ 2.spanish
 
-Translating from english to spanish
+ Enter source language number: 1
+ Enter target language number: 2
 
-abandon abandon → ábaco | #1 | 00000000000
+ Translating from english to spanish
 
-h
+ > abandon
+ abandon → ábaco | #1 | 00000000000
 
-BIP39 Passphrase Translator - Instructions
-Type a word to translate it from source to target language
-Press Enter (empty input) to change dictionaries
-Type 'h' to show these instructions
-Type 'x' to exit the program
-Press Ctrl+C to exit at any time
-x Exiting the translator. Goodbye!```
+ > h
+
+ BIP39 Passphrase Translator - Instructions
+ Type a word to translate it from source to target language
+ Press Enter (empty input) to change dictionaries
+ Type 'h' to show these instructions
+ Type 'x' to exit the program
+ Press Ctrl+C to exit at any time
+
+ > x
+ Exiting the translator. Goodbye!```
